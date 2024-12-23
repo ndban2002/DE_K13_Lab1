@@ -20,6 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ndban2002/DE_K13_Lab1",
+    "accountId": "255fe858-9f41-4fca-8ae9-f90a46a772c2"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -29,17 +35,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.config.executor&quot;: &quot;Run&quot;,
-    &quot;Python.connect.executor&quot;: &quot;Run&quot;,
-    &quot;Python.create_table.executor&quot;: &quot;Run&quot;,
-    &quot;Python.etl.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/ndban2002/PycharmProjects/NguyenDuongBinhAn_K13_LV1_project_02/NguyenDuongBinhAn_K13_LV1_project_02.py&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.config.executor": "Run",
+    "Python.connect.executor": "Run",
+    "Python.create_table.executor": "Run",
+    "Python.etl.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/ndban2002/PycharmProjects/NguyenDuongBinhAn_K13_LV1_project_02/NguyenDuongBinhAn_K13_LV1_project_02.py"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
